@@ -1,4 +1,6 @@
-[
+{"domain":"go.i0ta.xyz",
+"owner":"y10n",
+"repos":[
   {
     "owner": "ozansz",
     "name": "gls",
@@ -50,3 +52,4 @@
     "master_branch": "main"
   }
 ]
+}
